@@ -1,5 +1,7 @@
 ## PhotoPicker
 
+Image Picker like Wechat
+
 ## Screenshot
 
 ![](./images/all_image.png)
@@ -63,7 +65,7 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 ## TODO
 
 * ~~pick photo~~
-* capture photo~~
+* capture photo
 
 ## License
 
